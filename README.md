@@ -4,4 +4,4 @@
 
 > Fake cloud hosting website [Live Preview](https://zen-carson-c10c9f.netlify.app) Tutorial version.
 > 
-> Fake cloud hosting website [Live Preview](https://magazijn-01-loruki.netlify.app) My version.
+> Fake cloud hosting website [Live Preview](https://magazijn-01-loruki.netlify.app) My code-along version.
